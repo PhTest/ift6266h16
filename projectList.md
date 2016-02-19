@@ -4,8 +4,8 @@ Feel free to move your name around and could try to maintain the
 alphabetic order if you are an artist like me.
 
 ## Dog vs Cat:
-- Assya Trofimov
 - Alexandre Lehoux
+- Assya Trofimov
 - Danlan Chen ?
 - Florian Bordes
 - Guillaume Berger
