@@ -3,9 +3,8 @@ This is a list of people in the class grouped by projects they work on.
 Feel free to move your name around and could try to maintain the
 alphabetic order if you are an artist like me.
 
-
-## Dog vs Cat:
 - Alexandre Lehoux
+## Dog vs Cat:
 - Assya Trofimov
 - Danlan Chen ?
 - Florian Bordes
