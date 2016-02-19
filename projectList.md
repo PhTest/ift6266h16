@@ -1,10 +1,10 @@
 
 ## Dog vs Cat:
--Alexandre Lehoux
--Assya Trofimov
--Danlan Chen ?
--Florian Bordes 
--Guillaume Berger 
++Alexandre Lehoux
++Assya Trofimov
++Danlan Chen ?
++Florian Bordes 
++Guillaume Berger 
 -Thomas George
 -Timothee Lesort
 -Olexa Bilaniuk 
